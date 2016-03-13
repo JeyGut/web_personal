@@ -1,0 +1,49 @@
+.head{
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: -30px;
+    margin-bottom: 15px;
+    z-index: -1;
+}
+
+.navegacion{
+    color: #fff;
+    position: absolute;
+    margin-top: 15px;
+}
+
+.divider{
+    width: 100px;
+    height: 1px;
+    background: #32c38e;
+    margin: 15 auto;
+}
+
+.profile{
+
+}
+
+.skills{
+    margin-top: 15px;
+    margin-bottom: 45px;
+
+}
+
+.education{
+    margin-top: 15px;
+
+}
+
+.progress-bar-success {
+    background-color: #32c38e;
+    width: 240px;
+}
+.progress{
+    height: 10px;
+    width: 300px;
+}
+
+.bar{
+    margin-top: 6px;
+}
+
