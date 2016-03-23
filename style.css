@@ -48,16 +48,32 @@
 }
 
 
+.label-default{
+    background-color: #32c38e;
+}
+
+footer{
+    background-color: #2e2e2e;
+}
+.contact{
+    background-color: #2e2e2e;
+    color: #fff;
+    padding: 15px;
+}
+
+.contact li{
+   list-style-type: none;
+}
 
 
 
-
-/*Bootsnip Timeline*/
+/*Timeline*/
 
 
 .timeline {
   list-style: none;
   padding: 20px 0 20px;
+  margin-bottom: 25px;
   position: relative;
 }
 .timeline:before {
